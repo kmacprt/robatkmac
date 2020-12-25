@@ -22,19 +22,19 @@ keys = dict(
     giphy = 'key_here',                                             #You can get a key at https://developers.giphy.com
 )
 
-git_repo = ('https://github.com/AmanoTeam/EduuRobot', 'master') #Repository where your bot is in
+git_repo = ('https://github.com/kmacprt/robatkmac', 'master') #Repository where your bot is in
 
 max_time = 60
 
 version = open('version.txt').read()
 
-logs = 123456789
+logs = 
 
-backups_chat = 123456789  # Put a 0, False or None to disable.
+backups_chat = 1131653685  # Put a 0, False or None to disable.
 backup_hours = ['00:00', '12:00']
 
 sudoers = [
-    123456789
+    1131653685
 ]
 
 enabled_plugins = [
