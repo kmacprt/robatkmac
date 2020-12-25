@@ -3,7 +3,7 @@ import amanobot.aio
 import asyncio
 
 
-token = "TOKEN:HERE"
+token = "1474570701:AAG2tQ3ykzosRpvgCs9o8-QoICehhB1Ttzc"
 
 
 loop = asyncio.get_event_loop()  # Do not change this
